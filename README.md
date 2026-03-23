@@ -1,7 +1,3 @@
-
-
----
-
 ## Langkah Menjalankan Stack
 
 ### 1. Clone / Buat folder project
@@ -47,7 +43,7 @@ docker-compose down -v
 
 ---
 
-## 📦 Penjelasan Konfigurasi docker-compose.yml
+## Penjelasan Konfigurasi docker-compose.yml
 
 ### Service: WordPress
 ```yaml
